@@ -1,0 +1,12 @@
+
+.env
+.env.*
+!.env.example
+
+node_modules/
+.next/
+__pycache__/
+*.pyc
+
+backend-api/uploads/*
+!backend-api/uploads/.gitkeep
